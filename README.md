@@ -1,5 +1,6 @@
 # MDSA
 Moroccan Darija Sentiment Analysis
+
 The MSDA is novel method based on DarijaBERT embedding and stacked deep learning algorithms, namely: LSTM, BiLSTM, GRU, and CNN that provide state-of-the-art results on two dialect datasets in terms of accuracy.
 
 # Dataset
